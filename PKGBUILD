@@ -1,4 +1,5 @@
-# Maintainer: <giovannisantini93@yahoo.it>
+# Maintainer: C. Dominik Bódi <dominik dot bodi at gmx dot de>
+# Contributor: <giovannisantini93@yahoo.it>
 # Contributor: Jochen Schalanda <jochen+aur@schalanda.name>
 # Contributor: Charles Pigott <charlespigott@googlemail.com>
 # Contributor: André Klitzing <aklitzing@online.de>
